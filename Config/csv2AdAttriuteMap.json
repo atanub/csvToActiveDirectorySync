@@ -1,0 +1,118 @@
+[
+  {
+    "AttrLDAP": "employeeNumber",
+    "ColCSV": "EMPLOYEE_NUMBER",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "dispName",
+    "ColCSV": "EMPLOYEE_NAME",
+    "IsDisabled": true
+  },
+  {
+    "AttrLDAP": "stAddress",
+    "ColCSV": "ADDRESS",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "city",
+    "ColCSV": "CITY",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "state",
+    "ColCSV": "STATE",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "zip",
+    "ColCSV": "ZIP_CODE",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "country",
+    "ColCSV": "COUNTRY",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "c",
+    "ColCSV": "COUNTRY_ABBR",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "CountryCode",
+    "ColCSV": "COUNTRY_CODE",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "telNumber",
+    "ColCSV": "WORK_TELEPHONE",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "MOBILE_NO",
+    "ColCSV": "MOBILE_NO",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "manager__NOT_REQUIRED__",
+    "ColCSV": "MANAGER",
+    "IsDisabled": true
+  },
+  {
+    "AttrLDAP": "bu",
+    "ColCSV": "BUSINESS_UNIT",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "DEPT",
+    "ColCSV": "DEPT",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "company",
+    "ColCSV": "COMPANY",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "user_id_col_name_in_AD",
+    "ColCSV": "user_id_col_name_in_AD",
+    "IsDisabled": true
+  },
+  {
+    "AttrLDAP": "manager",
+    "IsUserReferenceField": true,
+    "ColCSV": "MANAGER_ID",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "UserLogon",
+    "ColCSV": "UserLogon_DOESN'T_EXIST",
+    "IsDisabled": true
+  },
+  {
+    "AttrLDAP": "extensionAttribute6",
+    "ColCSV": "COUNTRY_ABBR_EX",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "extensionAttribute7",
+    "ColCSV": "CITY_EX",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "extensionAttribute8",
+    "ColCSV": "GRADE",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "extensionAttribute9",
+    "ColCSV": "DESIGNATION",
+    "IsDisabled": false
+  },
+  {
+    "AttrLDAP": "extensionAttribute10",
+    "ColCSV": "LOCATION",
+    "IsDisabled": false
+  }
+]
